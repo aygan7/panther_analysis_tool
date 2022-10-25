@@ -1,0 +1,4 @@
+66.249.60.131  admin-dash [INFO] [2022-08-01T16:33:12.421Z] john@workstep - Password reset requested
+216.239.47.100  admin-dash [INFO] [2022-08-01T16:33:12.421Z] buttles@workstep - Login failed. Attempt: 1
+216.239.47.100  admin-dash [INFO] [2022-08-01T16:33:29.102Z] buttles@workstep - Login failed. Attempt: 2
+216.239.47.100  admin-dash [INFO] [2022-08-01T16:34:07.092Z] buttles@workstep - Login attempt succeeded
